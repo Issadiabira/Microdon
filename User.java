@@ -15,7 +15,7 @@ import java.util.NoSuchElementException;
 
 
 /**
- *@author ISSA DIABIRA 12109303
+ *@author ISSA DIABIRA 
  *je déclare qu'il s'agit de mon propre travail
  * Un utilisateur du réseau social Microdon. Chaque instance possède un nom
  * (getName()) unique, dans ce but chaque instance créée est mémorisée dans un
